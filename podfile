@@ -1,0 +1,17 @@
+platform :ios, '9.0'
+target 'Beiyousi' do
+
+pod 'Masonry'
+pod 'AFNetworking'
+pod 'SDWebImage'
+
+pod 'JSONModel'
+
+pod 'Reachability'
+
+pod 'MBProgressHUD'
+pod 'GKPhotoBrowser'
+pod 'MJRefresh'
+pod 'MJExtension'
+pod 'IQKeyboardManager'
+end

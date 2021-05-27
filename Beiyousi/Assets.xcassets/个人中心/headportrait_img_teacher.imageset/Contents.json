@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "headportrait_img_teacher(1).png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "headportrait_img_teacher@2x(1).png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "headportrait_img_teacher@3x(1).png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
